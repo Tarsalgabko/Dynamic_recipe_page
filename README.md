@@ -230,5 +230,5 @@ Optimizations for React:
 ---
 
 **Autor**: Gabriell S. Kisely  
-**Verzia**: 1.2.0  
-**Licencia**: MIT
+**Version**: 1.2.0  
+**Licence**: MIT
